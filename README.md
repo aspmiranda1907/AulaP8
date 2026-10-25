@@ -134,7 +134,7 @@ Combina todos os conceitos:
 2. Adiciona uma imagem PNG nova à pasta `assets/`.
 3. Confirma que a imagem é abrangida pela configuração de Git LFS definida anteriormente.
 4. Regista as alterações num commit.
-5. Volta à *main*, faz uma pequena alteração ao `README.md`, regista-a num commit e sincroniza a *main* com o teu remoto pessoal.
+5. Volta à *main*, faz uma pequena alteração ao `README.md`, regista-a num commit e sincroniza a *main* com o teu remoto pessoal. (Nova alteração)
 6. Regressa à branch criada e faz o rebase sobre a *main*.
 7. Envia a branch rebaseada para o teu remoto pessoal, regressa à *main*, faz o *merge* final e sincroniza a *main* com o remoto pessoal.
 8. Confirma no GitHub que a nova imagem está armazenada com Git LFS.
