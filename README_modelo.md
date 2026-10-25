@@ -19,4 +19,4 @@ Criei uma branch nova para trabalhar na alteração deste ficheiro sem afetar o 
 (Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
 
 
-Alteração da linha na main
+Alteração da linha
